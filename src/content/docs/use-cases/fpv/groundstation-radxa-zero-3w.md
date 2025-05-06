@@ -148,7 +148,7 @@ This service will only trigger when enables on the camera for bidirectional link
 
 ## Result
 
-<img src="https://github.com/user-attachments/assets/43e8552e-9d24-4d7b-9120-cd2fc08a9934" alt="drawing" width="200"/>
+<img src="https://github.com/user-attachments/assets/43e8552e-9d24-4d7b-9120-cd2fc08a9934" alt="drawing" width="210"/>
 
 ## Where to buy
 
